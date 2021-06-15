@@ -408,7 +408,7 @@ banner slider css
 .banner-slider-item {
   position: relative;
 }
-.banner-slider-item-img{
+.banner-slider-item-img #bgimg{
 	filter: blur(4px);
   }
 .banner-slider-item-img {
@@ -434,7 +434,7 @@ About us
 -----------------------------------------------------------------------------------*/
 
 .experience-section {
-	background: #917758;
+	background: ##7b7b7b;
 	padding-bottom: 75px;
 }
 
