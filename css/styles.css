@@ -274,6 +274,7 @@ banner section
 
 .header ul {
     list-style: none;
+	text-align: center;
 }
 
 .header ul li {
