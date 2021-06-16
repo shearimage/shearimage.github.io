@@ -1910,17 +1910,7 @@ Contact us
 	height:400px;
 }
 
-.map-img:after {
-	content: "";
-	background: url("../images/loc-big.png") no-repeat center center;
-	position: absolute;
-	top: 90px;
-	left: 0;
-	right: 0;
-    width: 36px;
-    height: 54px;
-    margin: 0 auto;
-}
+
 
 
 /*-----------------------------------------------------------------------------------
